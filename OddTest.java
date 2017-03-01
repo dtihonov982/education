@@ -1,11 +1,13 @@
 /* 
 https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html
 
-Exercise (Method): Write a boolean method called isOdd() in a class called OddTest, which takes an int as input and returns true if the it is odd. The signature of the method is as follows:
+Exercise (Method): Write a boolean method called isOdd() in a class called OddTest,
+ which takes an int as input and returns true if the it is odd. The signature of the method is as follows:
 
 public static boolean isOdd(int number)
 
-Also write the main() method that prompts user for a number, and prints "ODD" or "EVEN". You should test for negative input. 
+Also write the main() method that prompts user for a number, 
+and prints "ODD" or "EVEN". You should test for negative input. 
 */
 
 import java.util.Scanner;

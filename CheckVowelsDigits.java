@@ -1,7 +1,10 @@
 /* 
 https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html
 
-Exercise CheckVowelsDigits: Write a program called CheckVowelsDigits, which prompts the user for a String, counts the number of vowels (a, e, i, o, u, A, E, I, O, U) and digits (0-9) contained in the string, and prints the counts and the percentages (with 2 decimal digits).  For example,
+Exercise CheckVowelsDigits: Write a program called CheckVowelsDigits, which 
+prompts the user for a String, counts the number of vowels (a, e, i, o, u, A, E, I, O, U) 
+and digits (0-9) contained in the string, and prints the counts and the percentages 
+(with 2 decimal digits).  For example,
 
 Enter a String: testing12345
 Number of vowels: 2 (16.67%)
